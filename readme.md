@@ -28,19 +28,10 @@ A simple command-line-based Supermarket Billing System written in C++ for managi
 
 1. **Clone the repository** (or copy the code):
    ```bash
-   git clone https://github.com/your-username/supermarket-billing-system.git
+   git clone https://github.com/Sid20235084/supermarket.git
    ```
-
 2. **Open the project in your favorite C++ IDE or compile via terminal:**
-   ```bash
-   g++ -o billing main.cpp
-   ```
-
 3. **Run the executable:**
-   ```bash
-   ./billing
-   ```
-
 4. **Follow the menu prompts:**
    - `1` → Add Item
    - `2` → Print Bill
